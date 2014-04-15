@@ -2,12 +2,12 @@
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
-
+I changed this, I changed this
 Things you may want to cover:
 
 * Ruby version
 
-* System dependencies
+* merge this...if you dare
 
 * Configuration
 
